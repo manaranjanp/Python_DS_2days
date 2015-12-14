@@ -1,0 +1,74 @@
+Player,Country,Career,Tests,Won,Lost,Drawn,Toss
+"Smith, G C",South Africa,2002-2014,109,53 ,29 ,27 ,58 
+"Border, A R",Australia,1978-1994,93,32 ,22 ,38 ,47 
+"Fleming, S P",New Zealand,1994-2008,80,28 ,27 ,25 ,38 
+"Ponting, R T",Australia,1995-2012,77,48 ,16 ,13 ,37 
+"Lloyd, C H",West Indies,1966-1984,74,36 ,12 ,26 ,35 
+"Dhoni, M S*",India,2005-,60,27 ,18 ,15 ,27 
+"Waugh, S R",Australia,1985-2004,57,41 ,9 ,7 ,31 
+"Ranatunga, A",Sri Lanka,1982-2000,56,12 ,19 ,25 ,29 
+"Atherton, M A",England,1989-2001,54,13 ,21 ,20 ,23 
+"Cronje, W J",South Africa,1992-2000,53,27 ,11 ,15 ,22 
+"Vaughan, M P",England,1999-2008,51,26 ,11 ,14 ,24 
+"Richards, I V A",West Indies,1974-1991,50,27 ,8 ,15 ,23 
+"Strauss, A J",England,2004-2012,50,23 ,11 ,16 ,28 
+"Taylor, M A",Australia,1989-1999,50,26 ,13 ,11 ,26 
+"Ganguly, S C",India,1996-2008,49,21 ,13 ,15 ,21 
+"Chappell, G S",Australia,1970-1984,48,21 ,13 ,14 ,29 
+Imran Khan,Pakistan,1971-1992,48,14 ,8 ,26 ,25 
+"Azharuddin, M",India,1984-2000,47,14 ,14 ,19 ,29 
+"Clarke, M J",Australia,2004-2015,47,24 ,16 ,7 ,24 
+"Gavaskar, S M",India,1971-1987,47,9 ,8 ,30 ,22 
+"Lara, B C",West Indies,1990-2006,47,10 ,26 ,11 ,20 
+"Hussain, N",England,1990-2004,45,17 ,15 ,13 ,19 
+Misbah-ul-Haq*,Pakistan,2001-,42,20 ,11 ,11 ,22 
+"Cook, A N*",England,2006-,41,17 ,14 ,10 ,18 
+"May, P B H",England,1951-1961,41,20 ,10 ,11 ,27 
+Nawab of Pataudi Jr,India,1961-1975,40,9 ,19 ,12 ,20 
+"Simpson, R B",Australia,1957-1978,39,12 ,12 ,15 ,19 
+"Sobers, G S A",West Indies,1954-1974,39,9 ,10 ,20 ,27 
+"Jayasuriya, S T",Sri Lanka,1991-2007,38,18 ,12 ,8 ,25 
+"Jayawardene, D P M",Sri Lanka,1997-2014,38,18 ,12 ,8 ,21 
+"Gooch, G A",England,1975-1995,34,10 ,12 ,12 ,16 
+Javed Miandad,Pakistan,1976-1993,34,14 ,6 ,14 ,12 
+Kapil Dev,India,1978-1994,34,4 ,7 ,22 ,15 
+"Reid, J R",New Zealand,1949-1965,34,3 ,18 ,13 ,16 
+"Gower, D I",England,1978-1992,32,5 ,18 ,9 ,14 
+"Vettori, D L",New Zealand,1997-2014,32,6 ,16 ,10 ,17 
+"Brearley, J M",England,1976-1981,31,18 ,4 ,9 ,13 
+"Illingworth, R",England,1958-1973,31,12 ,5 ,14 ,15 
+Inzamam-ul-Haq,Pakistan,1992-2007,31,11 ,10 ,10 ,15 
+"Chappell, I M",Australia,1964-1980,30,15 ,5 ,10 ,17 
+"Dexter, E R",England,1958-1968,30,9 ,7 ,14 ,13 
+"Howarth, G P",New Zealand,1975-1985,30,11 ,7 ,12 ,17 
+"Sammy, D J G*",West Indies,2007-,30,8 ,12 ,10 ,14 
+"Benaud, R",Australia,1952-1964,28,12 ,4 ,11 ,11 
+"Hughes, K J",Australia,1977-1984,28,4 ,13 ,11 ,13 
+"Cowdrey, M C",England,1954-1975,27,8 ,4 ,15 ,17 
+"McCullum, B B*",New Zealand,2004-,27,9 ,9 ,9 ,11 
+"Pollock, S M",South Africa,1995-2008,26,14 ,5 ,7 ,9 
+"Dravid, R",India,1996-2012,25,8 ,6 ,11 ,15 
+"Lawry, W M",Australia,1961-1971,25,9 ,8 ,8 ,8 
+"Smith, M J K",England,1958-1972,25,5 ,3 ,17 ,10 
+"Tendulkar, S R",India,1989-2013,25,4 ,9 ,12 ,15 
+Wasim Akram,Pakistan,1985-2002,25,12 ,8 ,5 ,8 
+"Woodfull, W M",Australia,1926-1934,25,14 ,7 ,4 ,12 
+"Bradman, D G",Australia,1928-1948,24,15 ,3 ,6 ,10 
+"Hassett, A L",Australia,1938-1953,24,14 ,4 ,6 ,18 
+Mushfiqur Rahim*,Bangladesh,2005-,24,4 ,11 ,9 ,11 
+"Richardson, R B",West Indies,1983-1995,24,11 ,6 ,7 ,12 
+"Gatting, M W",England,1978-1995,23,2 ,5 ,16 ,14 
+"Hutton, L",England,1937-1955,23,11 ,4 ,8 ,7 
+"Kardar, A H",Pakistan,1946-1958,23,6 ,6 ,11 ,10 
+"Mathews, A D*",Sri Lanka,2009-,23,10 ,8 ,5 ,15 
+"Bedi, B S",India,1966-1979,22,6 ,11 ,5 ,13 
+"Goddard, J D C",West Indies,1948-1957,22,8 ,7 ,7 ,12 
+"Hooper, C L",West Indies,1987-2002,22,4 ,11 ,7 ,15 
+"MacLaren, A C",England,1894-1909,22,4 ,11 ,7 ,11 
+"Walsh, C A",West Indies,1984-2001,22,6 ,7 ,9 ,13 
+"Campbell, A D R",Zimbabwe,1992-2002,21,2 ,12 ,7 ,15 
+"Darling, J",Australia,1894-1905,21,7 ,4 ,10 ,7 
+"Streak, H H",Zimbabwe,1993-2005,21,4 ,11 ,6 ,13 
+"Flower, A",Zimbabwe,1992-2002,20,1 ,10 ,9 ,10 
+"Gayle, C H*",West Indies,2000-,20,3 ,9 ,8 ,8 
+"Hammond, W R",England,1927-1947,20,4 ,3 ,13 ,11 
