@@ -1,6 +1,6 @@
 ## Python for Data Science Workshop by Manaranjan Pradhan
 
-<b> This repository contains the the tutorials and exercises for the 2 days Python for Data Science Workshop conducted by me. <b>
+<b> This repository contains the the tutorials and exercises for the 2 days Python for Data Science Workshop conducted by me. </b>
 
 ### The topcis covered are 
 
