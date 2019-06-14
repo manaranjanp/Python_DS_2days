@@ -1,0 +1,39 @@
+Steps for installing GraphViz for creating Decision Tree
+========================================================
+
+1. Install Graphviz from the link below
+    
+   Windows:
+   
+   https://graphviz.gitlab.io/_pages/Download/Download_windows.html
+   
+   Select the msi package
+   
+   MAC:
+   
+   https://www.graphviz.org/download/
+   
+   Use homebrew for installing graphviz
+
+
+2. For those who are using Windows
+
+   a) Shutdown jupyter notebooks, if any running
+   b) Close the Anaconda Prompt terminal
+   c) Add the graphviz's bin folder to the environment variable PATH
+      (The path may be in program files(x86))
+   d) Start Anaconda prompt
+   e) Check the PATH variable
+      echo %PATH%
+
+3. Install pydotplus
+   
+   pip install pydotplus  --proxy=<if any proxy required>
+   
+4. Change the directory where the programs are stored using cd command
+
+5. Restart jupyter notebook   
+
+   jupyter notebook
+   
+6. Start your program   
