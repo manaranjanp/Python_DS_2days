@@ -21,10 +21,12 @@ Steps for installing GraphViz for creating Decision Tree
    a) Shutdown jupyter notebooks, if any running
    b) Close the Anaconda Prompt terminal
    c) Add the graphviz's bin folder to the environment variable PATH
-      (The path may be in program files(x86))
+      Note: The path may be in program files(x86) and add the path upto (including) bin folder.
    d) Start Anaconda prompt
    e) Check the PATH variable
       echo %PATH%
+      
+      Note: the path variable should be show graphviz's bin folder.
 
 3. Install pydotplus
    
