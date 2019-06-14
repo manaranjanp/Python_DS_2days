@@ -36,4 +36,4 @@ Steps for installing GraphViz for creating Decision Tree
 
    jupyter notebook
    
-6. Start your program   
+6. Browse to the directory from jupyter explorer and click on the program and select cell -> Run All 
